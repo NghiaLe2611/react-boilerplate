@@ -1,0 +1,34 @@
+{
+    "common": {
+        "welcome": "Welcome to React Boilerplate",
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "save": "Save",
+        "delete": "Delete",
+        "edit": "Edit",
+        "create": "Create",
+        "update": "Update"
+    },
+    "navigation": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact",
+        "settings": "Settings"
+    },
+    "form": {
+        "name": "Name",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "required": "This field is required",
+        "invalidEmail": "Please enter a valid email address",
+        "passwordMismatch": "Passwords do not match"
+    },
+    "demo": {
+        "title": "Demo Form",
+        "description": "This is a demonstration of React Hook Form with Zod validation",
+        "success": "Form submitted successfully!"
+    }
+}
